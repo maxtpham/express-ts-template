@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "sourceMap": true
+  }
+  ,"exclude": [
+    "node_modules",
+    "wwwroot",
+    "wwwroot.prd"
+  ]
+  ,"include": [
+    "server/**/*.ts"
+  ]
+}
